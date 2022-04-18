@@ -1,0 +1,15 @@
+{
+    "recipes": [{
+        "name": "Brnj",
+        "id": 1,
+        "description": "This is brnj."
+    }, {
+        "name": "Pizza",
+        "id": 2,
+        "description": "This is pizza."
+    }, {
+        "name": "Rice",
+        "id": 3,
+        "description": "This is Rice."
+    }]
+}
